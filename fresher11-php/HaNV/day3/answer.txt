@@ -1,0 +1,13 @@
+Trả lời câu hỏi
+Câu 1: Có thể sử dụng số trong kiểu dữ liệu chuỗi
+	ví  dụ: $a = 10;
+	convert sang kiểu chuỗi: $a = (string)$a;
+Câu 2: Các kiểu dữ liệu được khia báo trong nháy đơn và nháy đôi
+	int, float, boolean, NULL
+Câu 3: Có thể khai báo biến vào kiểu dữ liệu chuỗi
+	$a = 20;
+	echo "đây là số $a";
+Câu 4: 
+	aray(): trong một mảng có thẻ chứa nhiều kiểu dữ liệu: int, float, string
+	string: một chuỗi nằm trong dấu ngoặc đơn hoặc kepf, chỉ cho phép chứa chuỗi	
+	
